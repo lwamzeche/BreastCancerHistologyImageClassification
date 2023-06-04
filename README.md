@@ -1,2 +1,2 @@
 # BreastCancerHistologyImageClassification
-[youtube URL proposal](https://youtu.be/vRbm6ISF8xs)
+[proposal presentation](https://youtu.be/vRbm6ISF8xs)
